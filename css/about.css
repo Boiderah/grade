@@ -1,0 +1,36 @@
+<h1> Summary</h1> 
+        
+<div>
+<p id="outerbox">
+  <div class="innerbox">
+    <img src="" alt="">
+    <p>Reaction</p>
+  </div>
+  80 / 100</p>
+</div>
+
+<div id="outerbox">
+  <P> Memory
+    92 / 100</P>
+  </div>
+  
+  <div id="outerbox">
+    <p> Verbal
+      61 / 100</p>
+    </div>
+    
+    <div id="outerbox">
+      <p> Visual
+        72 / 100</p>
+      </div>
+      <div id="outerbox">
+        <div> Continue </div> 
+      </div>
+
+
+
+
+      <div class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+Coded by <a href="#">Your Name Here</a>.
+</div>
